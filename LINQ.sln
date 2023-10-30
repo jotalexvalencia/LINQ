@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQINTRODUCCION01", "01Int
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModosDiferidoeInmediato02", "ModosDiferidoeInmediato02\ModosDiferidoeInmediato02.csproj", "{F65C06DC-9440-4F2D-8C36-F34CD77B5F5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQMetodoClase03", "LINQMetodoClase03\LINQMetodoClase03.csproj", "{B7586A9E-FA6C-4DCF-A240-817C341DAEF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F65C06DC-9440-4F2D-8C36-F34CD77B5F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F65C06DC-9440-4F2D-8C36-F34CD77B5F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F65C06DC-9440-4F2D-8C36-F34CD77B5F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7586A9E-FA6C-4DCF-A240-817C341DAEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7586A9E-FA6C-4DCF-A240-817C341DAEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7586A9E-FA6C-4DCF-A240-817C341DAEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7586A9E-FA6C-4DCF-A240-817C341DAEF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
