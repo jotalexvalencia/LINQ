@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModosDiferidoeInmediato02",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQMetodoClase03", "LINQMetodoClase03\LINQMetodoClase03.csproj", "{B7586A9E-FA6C-4DCF-A240-817C341DAEF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04LinqClases", "04LinqClases\04LinqClases.csproj", "{0857D9D5-FF40-4A27-94D4-F0B4B0B89E8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B7586A9E-FA6C-4DCF-A240-817C341DAEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7586A9E-FA6C-4DCF-A240-817C341DAEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7586A9E-FA6C-4DCF-A240-817C341DAEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0857D9D5-FF40-4A27-94D4-F0B4B0B89E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0857D9D5-FF40-4A27-94D4-F0B4B0B89E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0857D9D5-FF40-4A27-94D4-F0B4B0B89E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0857D9D5-FF40-4A27-94D4-F0B4B0B89E8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
