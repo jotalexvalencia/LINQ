@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_LinqFluentSintax", "08_L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_LinqMasOperadores", "09_LinqMasOperadores\09_LinqMasOperadores.csproj", "{167E73B5-2806-4C85-A607-AC896BF38220}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Linq_Subquery", "10_Linq_Subquery\10_Linq_Subquery.csproj", "{DC29E5A6-9072-4008-9D19-8FCBE1DC0064}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{167E73B5-2806-4C85-A607-AC896BF38220}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{167E73B5-2806-4C85-A607-AC896BF38220}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{167E73B5-2806-4C85-A607-AC896BF38220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC29E5A6-9072-4008-9D19-8FCBE1DC0064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC29E5A6-9072-4008-9D19-8FCBE1DC0064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC29E5A6-9072-4008-9D19-8FCBE1DC0064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC29E5A6-9072-4008-9D19-8FCBE1DC0064}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
