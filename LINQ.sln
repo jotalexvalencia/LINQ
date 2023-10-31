@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Conjuntos", "07_Conjunto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_LinqFluentSintax", "08_LinqFluentSintax\08_LinqFluentSintax.csproj", "{85485393-16DA-454D-BABB-2B69F9CBAD38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_LinqMasOperadores", "09_LinqMasOperadores\09_LinqMasOperadores.csproj", "{167E73B5-2806-4C85-A607-AC896BF38220}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{85485393-16DA-454D-BABB-2B69F9CBAD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85485393-16DA-454D-BABB-2B69F9CBAD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85485393-16DA-454D-BABB-2B69F9CBAD38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{167E73B5-2806-4C85-A607-AC896BF38220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167E73B5-2806-4C85-A607-AC896BF38220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167E73B5-2806-4C85-A607-AC896BF38220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167E73B5-2806-4C85-A607-AC896BF38220}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
