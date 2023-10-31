@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_ArrayListTips", "05_Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_OperacionesLinq", "07_OperacionesLinq\06_OperacionesLinq.csproj", "{9AA57B54-E075-4F7D-A487-C99EE7872E0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Conjuntos", "07_Conjuntos\07_Conjuntos.csproj", "{9385F38E-50B9-43E6-BBD3-81B8B728581D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{9AA57B54-E075-4F7D-A487-C99EE7872E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AA57B54-E075-4F7D-A487-C99EE7872E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AA57B54-E075-4F7D-A487-C99EE7872E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9385F38E-50B9-43E6-BBD3-81B8B728581D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9385F38E-50B9-43E6-BBD3-81B8B728581D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9385F38E-50B9-43E6-BBD3-81B8B728581D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9385F38E-50B9-43E6-BBD3-81B8B728581D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
