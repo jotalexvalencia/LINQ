@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04LinqClases", "04LinqClase
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_ArrayListTips", "05_ArrayListTips\05_ArrayListTips.csproj", "{99FA9F03-D95D-4E78-B25D-04D624BD0561}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_OperacionesLinq", "07_OperacionesLinq\06_OperacionesLinq.csproj", "{9AA57B54-E075-4F7D-A487-C99EE7872E0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{99FA9F03-D95D-4E78-B25D-04D624BD0561}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99FA9F03-D95D-4E78-B25D-04D624BD0561}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99FA9F03-D95D-4E78-B25D-04D624BD0561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA57B54-E075-4F7D-A487-C99EE7872E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA57B54-E075-4F7D-A487-C99EE7872E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA57B54-E075-4F7D-A487-C99EE7872E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA57B54-E075-4F7D-A487-C99EE7872E0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
