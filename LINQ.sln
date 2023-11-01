@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_Linq_QueryProgresivo", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_ Linq_Operadores1", "Linq_Operadores1\12_ Linq_Operadores1.csproj", "{C688D2AC-2D1E-47FF-8F23-B2C655840FE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_Linq_Operadores2", "13_Linq_Operadores2\13_Linq_Operadores2.csproj", "{A7BBC1E5-22B7-4FFC-B917-B86E0E7C7A8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{C688D2AC-2D1E-47FF-8F23-B2C655840FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C688D2AC-2D1E-47FF-8F23-B2C655840FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C688D2AC-2D1E-47FF-8F23-B2C655840FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7BBC1E5-22B7-4FFC-B917-B86E0E7C7A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7BBC1E5-22B7-4FFC-B917-B86E0E7C7A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7BBC1E5-22B7-4FFC-B917-B86E0E7C7A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7BBC1E5-22B7-4FFC-B917-B86E0E7C7A8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
