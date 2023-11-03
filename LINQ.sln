@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19_Linq_XDocument", "19_Lin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_Linq_Arreglos_a_XML", "20_Linq_Arreglos_a_XML\20_Linq_Arreglos_a_XML.csproj", "{F404414D-F47D-4297-BB9D-9A9E8C8211FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_Linq_TrabjandoConElementos1", "21_Linq_TrabjandoConElementos1\21_Linq_TrabjandoConElementos1.csproj", "{E1F13E11-E13C-473A-AC6F-9F27BB68EA05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{F404414D-F47D-4297-BB9D-9A9E8C8211FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F404414D-F47D-4297-BB9D-9A9E8C8211FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F404414D-F47D-4297-BB9D-9A9E8C8211FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1F13E11-E13C-473A-AC6F-9F27BB68EA05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F13E11-E13C-473A-AC6F-9F27BB68EA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F13E11-E13C-473A-AC6F-9F27BB68EA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F13E11-E13C-473A-AC6F-9F27BB68EA05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
