@@ -53,6 +53,48 @@ namespace _24_Linq_Winforms
 
             // Mostramos los resultados
             MessageBox.Show(datos);
+
+
+
+            // Ya me dio                 
+
+            //var listado2 = from item in documento.Descendants("Alumno")
+            //               where (string)item.Attribute("Nombre") == txtBCurso.Text
+            //                            select (string)item.Attribute("Nombre") +
+            //                            item.Element("Calificacion").Value + " " + item.Element("Curso").Value;
+            //;
+
+            var listado2 = from item in documento.Descendants("Alumno")
+                           where (string)item.Element("Curso") == txtBCurso.Text
+                           select (string)item.Attribute("Nombre") +
+                           item.Element("Calificacion").Value + " " + item.Element("Curso").Value;
+            ;
+
+            // Construimos una cadena con la información
+            string datos2 = "";
+            foreach (var dato2 in listado2.Distinct())
+            {
+                datos2 += string.Format("Informacion alumno {0}\r\n", dato2);
+            }
+
+            // Mostramos los resultados
+            MessageBox.Show(datos2);
+
+
+
+
+
+            //    from a in documento.Descendants("Alumno")
+            //                       C
+            //                       select a.Element("Calificacion").Value + " " + a.Element("Curso").Value;
+
+
+
+
+
+
+
+
         }
     }
 }
