@@ -54,20 +54,14 @@ namespace _24_Linq_Winforms
             // Mostramos los resultados
             MessageBox.Show(datos);
 
-
-
             // Ya me dio                 
 
-            //var listado2 = from item in documento.Descendants("Alumno")
-            //               where (string)item.Attribute("Nombre") == txtBCurso.Text
-            //                            select (string)item.Attribute("Nombre") +
-            //                            item.Element("Calificacion").Value + " " + item.Element("Curso").Value;
-            //;
+            
 
             var listado2 = from item in documento.Descendants("Alumno")
                            where (string)item.Element("Curso") == txtBCurso.Text
-                           select (string)item.Attribute("Nombre") +
-                           item.Element("Calificacion").Value + " " + item.Element("Curso").Value;
+                           select (string)item.Attribute("Nombre") + " Calificación: " +
+                           item.Element("Calificacion").Value + " Curso: " + item.Element("Curso").Value;
             ;
 
             // Construimos una cadena con la información
@@ -79,21 +73,6 @@ namespace _24_Linq_Winforms
 
             // Mostramos los resultados
             MessageBox.Show(datos2);
-
-
-
-
-
-            //    from a in documento.Descendants("Alumno")
-            //                       C
-            //                       select a.Element("Calificacion").Value + " " + a.Element("Curso").Value;
-
-
-
-
-
-
-
 
         }
     }
