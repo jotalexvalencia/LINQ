@@ -46,7 +46,7 @@ namespace Linq_Operadores5
 
             // Where
             // Aparte de lo que hemos visto, where permite un segundo argumento de tipo int que simboliza el indice del elemento
-            // Esto se conoce como filtrado por indice
+            // Esto se conoce como filtrado por indice ojo
 
             string[] postres = { "pay de manzana", "pastel de chocolate", "manzana caramelizada", "fresas con crema", "pay de pera y manzana" };
             Console.WriteLine("--- Where ---\r\n");
